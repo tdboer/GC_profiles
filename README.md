@@ -10,5 +10,5 @@ Contents
 * profile_fits: contains a PDF file for each GC, showing the stitched profile along with best-fit solutions of Limepy and SPES models, along with literature King and Wilson fits from McLaughlin & van der Marel (2005). 
 
 For reference:
-Limepy models: Gieles & Zocchi 2015, MNRAS,454, 576 (http://arxiv.org/abs/1508.02120)
-SPES models: Claydon,I.,Gieles,M. & Zocchi,A. 2015, MNRAS,466, 3937 (https://arxiv.org/abs/1612.02253)
+* Limepy models: Gieles & Zocchi 2015, MNRAS,454, 576 (http://arxiv.org/abs/1508.02120)
+* SPES models: Claydon,I.,Gieles,M. & Zocchi,A. 2015, MNRAS,466, 3937 (https://arxiv.org/abs/1612.02253)
