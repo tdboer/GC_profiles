@@ -1,7 +1,7 @@
 # Globular cluster radial profiles
 -------------------------------------------
 
-This folder contains the radial profiles of 81 Harris GCs as sampled from Gaia DR2 in combination with archival profiles (mainly Trager + HST).
+This folder contains the radial profiles of 81 Harris GCs as sampled from Gaia DR2 in combination with archival profiles (mainly Trager + HST). This work is described in detail in: de Boer,T., Gieles, M. et al., MNRAS,2019,submitted.
 
 Contents
 --------
